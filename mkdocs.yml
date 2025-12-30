@@ -48,13 +48,6 @@ nav:
           - 讲义答案: Math/complex/讲义答案/index.md
           - 讲义真题: Math/complex/讲义真题/index.md
           
-  - 化学研究:
-      - 高斯计算笔记: Chemistry/g16_notes.md
-      - RDKit脚本: Chemistry/rdkit_script.md
-      
-  - 编程技能:
-      - Linux基础: Coding/linux_basics.md
-
 # 3. 插件列表
 plugins:
   - search
