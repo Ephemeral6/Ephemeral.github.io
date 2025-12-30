@@ -43,11 +43,12 @@ nav:
   - 数学:
       - 数学总览: Math/index.md
       
-      # === 第一板块：微积分上 ===
+      # === 微积分上板块 ===
       - 微积分上:
-          - 历年真题讲义: Math/complex/近十年微积分上册真题讲义/index.md
-          - 讲义答案: Math/complex/讲义答案/index.md
-          - 讲义真题: Math/complex/讲义真题/index.md
+          - 章节综述: Math/微积分上/index.md
+          - 历年真题讲义: Math/微积分上/近十年微积分上册真题讲义/index.md
+          - 讲义答案: Math/微积分上/讲义答案/index.md
+          - 讲义真题: Math/微积分上/讲义真题/index.md
 
 # 3. 插件列表
 plugins:
