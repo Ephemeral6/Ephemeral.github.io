@@ -7,7 +7,7 @@ theme:
   features:
     - navigation.tabs        # 顶部导航栏
     - navigation.tracking    # URL 随滚动变化
-    - navigation.sections    # 侧边栏分组
+    #- navigation.sections    # 侧边栏分组
     - navigation.top         # 返回顶部按钮
     - navigation.indexes     # 允许文件夹点击直接跳转
     - toc.follow             # 右侧目录跟随滚动
