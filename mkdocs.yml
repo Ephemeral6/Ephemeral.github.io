@@ -49,6 +49,11 @@ nav:
           - 历年真题讲义: Math/微积分上/近十年微积分上册真题讲义/index.md
           - 讲义答案: Math/微积分上/讲义答案/index.md
           - 讲义真题: Math/微积分上/讲义真题/index.md
+      - 线性代数:
+          - 章节综述: Math/线性代数/index.md
+          - 历年真题讲义: Math/线性代数/线性代数讲义/index.md
+          - 讲义答案: Math/线性代数/讲义答案/index.md
+          - 讲义真题: Math/线性代数/讲义真题/index.md
 
 # 3. 插件列表
 plugins:
